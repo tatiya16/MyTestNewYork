@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheNewYorkTime</string>
+    <string name="title_action_bar">The New York Time</string>
+    <string name="text_splash_screen">The New York Time</string>
+    <string name="open_website">Open Website</string>
+    <string name="hint_search">Search</string>
+</resources>

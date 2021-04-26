@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--text size-->
+    <dimen name="text_small">16sp</dimen>
+    <dimen name="text_normal">18sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="height_item_home">340dp</dimen>
+    <dimen name="height_item_search">160dp</dimen>
+</resources>
